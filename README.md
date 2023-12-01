@@ -15,8 +15,8 @@
 ~~由于本人没有系统的学习过硬件电路设计，如在设计中有需要改进的地方，欢迎友善指出，我一定改~~
 
 <div style="display:inline-block">   
-    <img src="https://tuchuang-e682.obs.cn-north-1.myhuaweicloud.com/image-20231121221503497.png" alt="飞控PCB" />   
-    <img src="https://tuchuang-e682.obs.cn-north-1.myhuaweicloud.com/image-20231121221740366.png" alt="3D" /> 
+    <img src="https://tuchuang-e682.obs.cn-north-1.myhuaweicloud.com/image-20231121221503497.png" alt="飞控PCB">   
+    <img src="https://tuchuang-e682.obs.cn-north-1.myhuaweicloud.com/image-20231121221740366.png" alt="3D"> 
 </div>
 
 ## 项目结构
